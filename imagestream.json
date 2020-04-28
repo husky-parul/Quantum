@@ -15,7 +15,7 @@
                     "openshift.io/display-name": "Jupyter Notebook (latest)",
                     "description": "Build and deploy a custom Jupyter Notebook image with pre-bundled notebooks, data files and Python packages.",
                     "iconClass": "icon-python",
-                    "sampleRepo": "https://github.com/getwarped/sample-notebooks.git",
+                    "sampleRepo": "https://github.com/husky-parul/qc-sample-nb.git",
                     "tags": "builder,python",
                     "version": "latest"
                 },
